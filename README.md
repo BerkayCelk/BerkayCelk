@@ -15,7 +15,7 @@ Mechanical engineering student in İzmir, Türkiye. I build small automation and
 
 **Selected work**
 - **[Casting product defect classification](https://github.com/BerkayCelk/Casting-Product-Defect-Classification-using-CNN)** — CNN image classifier for casting defects (Python).
-- **[42 C pool (c00–c07)](https://github.com/BerkayCelk/42-c-pool)** — piscine C exercises, 54 functions from scratch.
+- **[42 C pool (c00–c07 + shell00)](https://github.com/BerkayCelk/42-c-pool)** — piscine C exercises, 54 functions from scratch.
 - **[Libft](https://github.com/BerkayCelk/Libft)** — from-scratch reimplementation of parts of the C standard library.
 - **[ft_printf](https://github.com/BerkayCelk/ft_printf)** — `printf` with format parsing and variadic arguments.
 - **[get_next_line](https://github.com/BerkayCelk/get_next_line)** — buffered line-by-line reader with static state.
