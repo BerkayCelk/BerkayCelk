@@ -19,7 +19,7 @@ Mechanical engineering student in İzmir, Türkiye. I build small automation and
 - **[Libft](https://github.com/BerkayCelk/Libft)** — from-scratch reimplementation of parts of the C standard library.
 - **[ft_printf](https://github.com/BerkayCelk/ft_printf)** — `printf` with format parsing and variadic arguments.
 - **[get_next_line](https://github.com/BerkayCelk/get_next_line)** — buffered line-by-line reader with static state.
-- **[push_swap](https://github.com/BerkayCelk/push_swap)** — two-stack sorting: parsing, stack operations and error handling (my implementation work) — *joint 42 project, final version in [push_swap-team](https://github.com/BerkayCelk/push_swap-team)*
+- **[push_swap](https://github.com/BerkayCelk/push_swap)** — two-stack sorting under a restricted instruction set: medium O(n·√n) chunk sort, simple O(n²) and complex O(n log n) radix sort algorithms + Makefile — *joint 42 project, working version in [push_swap-team](https://github.com/BerkayCelk/push_swap-team)*
 
 **Toolbox**  
 C++ · Python · C · Linux · Git — *currently learning:* ROS 2
